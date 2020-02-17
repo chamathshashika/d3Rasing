@@ -1,0 +1,17 @@
+{
+  "name": "@johnburnmurdoch/bar-chart-race",
+  "main": "9efb7ba3d196a72e@482.js",
+  "version": "482.0.0",
+  "homepage": "https://observablehq.com/@johnburnmurdoch/bar-chart-race",
+  "author": {
+    "name": "johnburnmurdoch",
+    "url": "https://observablehq.com/@johnburnmurdoch"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  },
+  "dependencies": {
+    "@observablehq/runtime": "^4.6.4"
+  }
+}
